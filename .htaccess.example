@@ -1,0 +1,3 @@
+PassengerAppRoot "/path/to/app"
+PassengerBaseURI "https://example.com"
+PassengerPython "/path/to/virtualenv/environment/binaries"
